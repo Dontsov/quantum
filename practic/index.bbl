@@ -1,0 +1,69 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{Omer:2003}
+\selectlanguageifdefined{english}
+\BibEmph{Omer B}. Classical concepts in quantum programming~//
+  \BibEmph{Institute for Theoretical Physics Technical University Vienna}. ---
+\newblock 2003. ---
+\newblock Pp.~1--11.
+
+\bibitem{Vizzotto:2010}
+\selectlanguageifdefined{english}
+\BibEmph{Vizzotto J.~K}. Concurrent Quantum Programming in Haskell~//
+  \BibEmph{Solid State Communications}. ---
+\newblock 2010. ---
+\newblock no.~143. ---
+\newblock P.~76.
+
+\bibitem{Nilsen:2001ru}
+\selectlanguageifdefined{russian}
+\BibEmph{Нильсен М., Чанг И.} Квантовые
+  вычисления и квантовая информация. ---
+\newblock Пер. с англ. --- М.: Мир, 2006. ---
+\newblock 824~{\cyr\cyrs.}
+
+\bibitem{Vontsovskiy:1983ru}
+\selectlanguageifdefined{russian}
+\BibEmph{Вонсонский С.~В, Кацнельсон М.~И}.
+  Квантовая физика твёрдого тела. ---
+\newblock М.: Наука, 1983. ---
+\newblock 337~{\cyr\cyrs.}
+
+\bibitem{JaySau:2010}
+\selectlanguageifdefined{english}
+\BibEmph{Sau J.~D., Lutchyn R.~M., Tewari S., el~al}. A generic new platform
+  for topological quantum computation using semiconductor heterostructures~//
+  \BibEmph{Phys. Rev. Lett. 104, 040502 (2010)}. ---
+\newblock 2010. ---
+\newblock no.~104.
+
+\bibitem{Menskiy:2001ru}
+\selectlanguageifdefined{russian}
+\BibEmph{Мединский М.~Б}. Квантовые измерения и
+  декогеренция. Модели ифеноменология. ---
+\newblock Пер. с англ. --- М.: ФИЗМАТЛИТ, 2001. ---
+\newblock 232~{\cyr\cyrs.}
+
+\bibitem{Janusz:2005}
+\selectlanguageifdefined{english}
+\BibEmph{Janusz Adamowski., Stanislaw Bednarek., Bartlomiej Szafran.} Quantum
+  Computing with Quantum Dots~// \BibEmph{SCHEDAE INFORMATICAE}. ---
+\newblock 2005. ---
+\newblock \textbf{58}. ---
+\newblock Pp.~95--111.
+
+\bibitem{Blum:1983ru}
+\selectlanguageifdefined{russian}
+\BibEmph{Блум К.} Теория матрицы плотности и её
+  приложения. ---
+\newblock Пер. с англ. --- М.: Мир, 1983. ---
+\newblock 248~{\cyr\cyrs.}
+
+\end{thebibliography}
