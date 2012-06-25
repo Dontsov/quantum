@@ -2,44 +2,44 @@ This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: index.aux
 The style file: IzvAGU.bst
 Database file #1: library.bib
-You've used 8 entries,
+You've used 9 entries,
             2919 wiz_defined-function locations,
-            725 strings with 7076 characters,
-and the built_in function-call counts, 2291 in all, are:
-= -- 283
-> -- 68
-< -- 10
-+ -- 23
-- -- 15
-* -- 96
-:= -- 305
-add.period$ -- 34
-call.type$ -- 8
+            731 strings with 7263 characters,
+and the built_in function-call counts, 2420 in all, are:
+= -- 297
+> -- 73
+< -- 11
++ -- 25
+- -- 16
+* -- 93
+:= -- 325
+add.period$ -- 38
+call.type$ -- 9
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 8
-duplicate$ -- 117
-empty$ -- 244
-format.name$ -- 15
-if$ -- 601
+cite$ -- 9
+duplicate$ -- 127
+empty$ -- 268
+format.name$ -- 16
+if$ -- 638
 int.to.chr$ -- 0
-int.to.str$ -- 8
+int.to.str$ -- 9
 missing$ -- 0
-newline$ -- 60
-num.names$ -- 24
-pop$ -- 58
+newline$ -- 66
+num.names$ -- 27
+pop$ -- 68
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 58
+skip$ -- 56
 stack$ -- 0
-substring$ -- 50
-swap$ -- 36
+substring$ -- 31
+swap$ -- 33
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 15
-width$ -- 9
-write$ -- 143
+while$ -- 13
+width$ -- 10
+write$ -- 159

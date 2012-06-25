@@ -9,10 +9,10 @@
 
 \bibitem{Omer:2003}
 \selectlanguageifdefined{english}
-\BibEmph{Omer B}. Classical concepts in quantum programming~//
-  \BibEmph{Institute for Theoretical Physics Technical University Vienna}. ---
-\newblock 2003. ---
-\newblock Pp.~1--11.
+\BibEmph{Omer B}. Classical concepts in quantum programming. ---
+\newblock Institute for Theoretical Physics Technical University Vienna, 2003.
+  ---
+\newblock 11~pp.
 
 \bibitem{Vizzotto:2010}
 \selectlanguageifdefined{english}
@@ -22,12 +22,13 @@
 \newblock no.~143. ---
 \newblock P.~76.
 
-\bibitem{Nilsen:2001ru}
+\bibitem{kokin:2004ru}
 \selectlanguageifdefined{russian}
-\BibEmph{Нильсен М., Чанг И.} Квантовые
-  вычисления и квантовая информация. ---
-\newblock Пер. с англ. --- М.: Мир, 2006. ---
-\newblock 824~{\cyr\cyrs.}
+\BibEmph{Кокин А.~A.} Твёрдотельные квантовые
+  компьютеры на ядерных спинах. ---
+\newblock М.: Институт компьютерных
+  исследований, 2004. ---
+\newblock 204~{\cyr\cyrs.}
 
 \bibitem{Vontsovskiy:1983ru}
 \selectlanguageifdefined{russian}
@@ -40,21 +41,28 @@
 \selectlanguageifdefined{english}
 \BibEmph{Sau J.~D., Lutchyn R.~M., Tewari S., el~al}. A generic new platform
   for topological quantum computation using semiconductor heterostructures~//
-  \BibEmph{Phys. Rev. Lett. 104, 040502 (2010)}. ---
+  \BibEmph{Phys. Rev. Lett.} ---
 \newblock 2010. ---
 \newblock no.~104.
+
+\bibitem{Nilsen:2001ru}
+\selectlanguageifdefined{russian}
+\BibEmph{Нильсен М., Чанг И.} Квантовые
+  вычисления и квантовая информация. ---
+\newblock Пер. с англ. --- М.: Мир, 2006. ---
+\newblock 824~{\cyr\cyrs.}
 
 \bibitem{Menskiy:2001ru}
 \selectlanguageifdefined{russian}
 \BibEmph{Мединский М.~Б}. Квантовые измерения и
-  декогеренция. Модели ифеноменология. ---
-\newblock Пер. с англ. --- М.: ФИЗМАТЛИТ, 2001. ---
+  декогеренция. Модели и феноменология. ---
+\newblock Пер. с англ. --- М.: Физматлит, 2001. ---
 \newblock 232~{\cyr\cyrs.}
 
 \bibitem{Janusz:2005}
 \selectlanguageifdefined{english}
 \BibEmph{Janusz Adamowski., Stanislaw Bednarek., Bartlomiej Szafran.} Quantum
-  Computing with Quantum Dots~// \BibEmph{SCHEDAE INFORMATICAE}. ---
+  Computing with Quantum Dots~// \BibEmph{Schedae Informaticae}. ---
 \newblock 2005. ---
 \newblock \textbf{58}. ---
 \newblock Pp.~95--111.

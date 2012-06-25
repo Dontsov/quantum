@@ -1,0 +1,19 @@
+\frametitle {Реализация квантового преобразования Фурье}
+ \begin{block}{Подготовка регистра}
+ \begin{verbatim}
+ operator dft(qureg q) { // main operator
+  const n=#q;           // n равно длине регистра q
+  int i; int j;         // объявляем сётчики циклов
+  for i=1 to n {
+    for j=1 to i-1 {    // перебор и по условию поворот фазы
+      V(pi/2^(i-j),q[n-i] & q[n-j]);
+//      if q[n-i] and q[n-j] { Phase(pi/2^(i-j)); }
+    }
+    H(q[n-i]);          // qubit rotation
+  }
+  flip(q);              // swap bit order of the output
+}
+
+set library 0;
+\end{verbatim}
+ \end{block}
